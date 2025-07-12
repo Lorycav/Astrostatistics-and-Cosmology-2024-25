@@ -2,13 +2,10 @@
 Repository for the homework excercises and final presentation of the course Astrostatistics and Cosmology by Prof. Liguori, academic year 2024/25
 
 <p float="left">
-  <img src="./Presentation/Screenshot 2025-07-12 093952.png" width="250" alt="Image 1" />
-  <img src="./Presentation/stt449fig5.jpeg" width="250" alt="Image 2" />
+  <img width="600" src="./Presentation/Screenshot 2025-07-12 093952.png" width="250" alt="Image 1" />
+  <img width="400" src="./Presentation/stt449fig5.jpeg" width="250" alt="Image 2" />
 </p>
 
-<p align="center">
-<img width="350" alt="flow" src="./Presentation/stt449fig5.jpeg" />
-</p>
 
 
 
